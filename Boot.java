@@ -32,5 +32,6 @@ public class Boot {
         Boot myRightBoot = new Boot("right");
         myLeftBoot.display();
         myRightBoot.display();
+        System.out.println("|______| |______|");
     }
 }
