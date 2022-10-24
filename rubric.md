@@ -22,11 +22,13 @@ __1___ 1 pt: The `Boot` class displays something boot-like
 
 ### Level 2 (3 pts)
 
-_____ 1 pt: The `Scarecrow` class displays something `Scarecrow-like`
+___.75__ 1 pt: The `Scarecrow` class displays something `Scarecrow-like`
+//It's missing it's feet!! Ahhhh! 
 
-_____ 1 pt: The `Scarecrow` uses the classes defined in Level 1 (**Association**) to accomplish its goals
+___1__ 1 pt: The `Scarecrow` uses the classes defined in Level 1 (**Association**) to accomplish its goals
 
-_____ 1 pt: The `Banner` class displays a decorative Banner
+__1___ 1 pt: The `Banner` class displays a decorative Banner
+I don't know if this meant like on it's own because in it's own code it does!! Sorry!!
 
 ### Level 3 (3 pts)
 
