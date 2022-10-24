@@ -22,7 +22,9 @@ public class Banner {
     
    System.out.println(     "****************************");
    System.out.println(        "*** ~~~~~~~~~~~~~~~~~~~~~~~~ ***");
-   System.out.println(        "*** ~              ~ ***");
+   System.out.print(        "*** ~ ");
+   System.out.print(message);
+   System.out.println(" ~*********");
    System.out.println(        " *** ~~~~~~~~~~~~~~~~~~~~~~~~ ***");
    System.out.println(        "   ********************     ***");
    System.out.println(                          "*******");
@@ -32,5 +34,6 @@ public class Banner {
     public static void main(String[] args) {
         Banner myBanner = new Banner("Hello world");
         myBanner.display();
+        
     }
 }
